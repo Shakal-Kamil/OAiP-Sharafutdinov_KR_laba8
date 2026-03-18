@@ -16,17 +16,14 @@
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
 
-        <!-- Состояние инвентаря -->
         <GroupBox Header="Текущий инвентарь (Stack)" Foreground="White" Margin="5">
             <ListBox x:Name="InventoryList" Background="#1E1E1E" Foreground="LightGreen"/>
         </GroupBox>
 
-        <!-- История команд -->
         <GroupBox Header="История команд" Grid.Column="1" Foreground="White" Margin="5">
             <ListBox x:Name="HistoryList" Background="#1E1E1E" Foreground="LightGray"/>
         </GroupBox>
 
-        <!-- Командная строка -->
         <TextBox x:Name="CommandInput" Grid.Row="1" Grid.ColumnSpan="2" 
                  Margin="5" Height="30" VerticalContentAlignment="Center"
                  Background="#3C3C3C" Foreground="White" CaretBrush="White"

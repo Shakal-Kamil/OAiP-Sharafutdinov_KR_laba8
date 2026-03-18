@@ -16,12 +16,9 @@ using System.Windows.Shapes;
 
 namespace SharafutdinovK_Laba8
 {
-    /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
-    /// </summary>
+
     public partial class MainWindow : Window
     {
-        // Используем ObservableCollection для автоматического обновления ListBox
         private ObservableCollection<string> inventory = new ObservableCollection<string>();
         private ObservableCollection<string> history = new ObservableCollection<string>();
 
@@ -48,7 +45,6 @@ namespace SharafutdinovK_Laba8
 
         private void ProcessCommand(string input)
         {
-            // Разбиваем строку на команду и аргумент
             string[] parts = input.Split(new[] { ' ' }, 2);
             string command = parts[0].ToLower();
             string argument = parts.Length > 1 ? parts[1] : string.Empty;
@@ -59,7 +55,6 @@ namespace SharafutdinovK_Laba8
                 {
                     case "add":
                         if (string.IsNullOrWhiteSpace(argument)) throw new Exception("Укажите предмет");
-                        // В стеке новый элемент всегда сверху (индекс 0 для наглядности в списке)
                         inventory.Insert(0, argument);
                         Log($"Добавлено: {argument}");
                         break;
@@ -95,7 +90,6 @@ namespace SharafutdinovK_Laba8
         private void Log(string message)
         {
             history.Add($"[{DateTime.Now:HH:mm:ss}] {message}");
-            // Автопрокрутка лога вниз
             HistoryList.ScrollIntoView(HistoryList.Items[HistoryList.Items.Count - 1]);
         }
 
