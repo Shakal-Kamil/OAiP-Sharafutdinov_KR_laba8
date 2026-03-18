@@ -1,0 +1,15 @@
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\bin\Debug\SharafutdinovK_Laba8.exe.config
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\bin\Debug\SharafutdinovK_Laba8.exe
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\bin\Debug\SharafutdinovK_Laba8.pdb
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\SharafutdinovK_Laba8.csproj.AssemblyReference.cache
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\MainWindow.g.cs
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\App.g.cs
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\SharafutdinovK_Laba8_MarkupCompile.cache
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\SharafutdinovK_Laba8_MarkupCompile.lref
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\MainWindow.baml
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\SharafutdinovK_Laba8.g.resources
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\SharafutdinovK_Laba8.Properties.Resources.resources
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\SharafutdinovK_Laba8.csproj.GenerateResource.cache
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\SharafutdinovK_Laba8.csproj.CoreCompileInputs.cache
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\SharafutdinovK_Laba8.exe
+C:\Users\nu914\OneDrive\Desktop\SharafutdinovK_Laba8\SharafutdinovK_Laba8\obj\Debug\SharafutdinovK_Laba8.pdb
